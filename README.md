@@ -9,6 +9,6 @@ public function someRelation()
 <hr>
 
 نمایش آرایه ای از خطاها در بلید
-@error('sizes.*')
-  {{$message}}
-@enderror
+<br>@error('sizes.*')<br>
+  {{$message}}<br>
+@enderror<br>
