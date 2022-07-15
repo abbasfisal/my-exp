@@ -15,7 +15,9 @@ public function someRelation()
 
 <a name="swagger"></a>
 # Swagger in Laravel 
-> package link in github :point_right: [L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger)
+> package link in github 
+> 1. :point_right: [L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger)
+> 2. :point_right: [scribe](https://github.com/knuckleswtf/scribe)
 
 
 ### Tut Links :point_down:
