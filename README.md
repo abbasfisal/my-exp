@@ -12,3 +12,13 @@ public function someRelation()
 <br>@error('sizes.*')<br>
   {{$message}}<br>
 @enderror<br>
+
+<a name="swagger"></a>
+# Swagger in Laravel 
+> package link in github :point_right: [L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger)
+
+
+### Tut Links :point_down:
+  1. [Acadeo.io Youtube Channel](https://www.youtube.com/watch?v=a3nQrBEtufw&t=192s)
+  2. [Tú Hoàng Youtube Channel](https://www.youtube.com/watch?v=p3Z3RR091Wk&t=124s)
+
