@@ -19,6 +19,12 @@ public function someRelation()
 > 1. :point_right: [L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger)
 > 2. :point_right: [scribe](https://github.com/knuckleswtf/scribe)
 
+For **Upgrade** `V1` to `V2` **postMan Collection** use this instruction
+
+```cli
+npm install -g postman-collection-transformer
+postman-collection-transformer convert -i <path to the input Postman Collection file> -o <path to the downloaded Postman file.json> -j 1.0.0 -p 2.0.0 -P
+```
 
 ### Tut Links :point_down:
   1. [Acadeo.io Youtube Channel](https://www.youtube.com/watch?v=a3nQrBEtufw&t=192s)
